@@ -1,7 +1,7 @@
 
 # 2025techpro_Session1 ( IDEs | Linux | Terminal |Tools)
 
-## 1. Prepare your Developer Environement
+## 1.Prepare your Developer Environement
 
 ### Install WSL if you are using windows
 [WSL installation](https://learn.microsoft.com/en-us/windows/wsl/) 
@@ -12,8 +12,9 @@
 <ul>
 <li>[Remote Explorer](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer)</li>
 <li>[Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)</li>
-</ul>
-## 2. Linux Commands
+</ul>  
+
+## 2.Linux Commands
 
 ### Display Current Directory path
 `pwd`
@@ -38,7 +39,7 @@
 ### Get the power of an admin
 `sudo`
 
-## 3. Create your first project
+## 3.Create your first project
 ### Go to home directory
 `cd ~/.`
 ### Create a folder for your project
