@@ -14,6 +14,9 @@
 <li>[Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)</li>
 </ul>  
 
+### Install Git 
+[Git Installation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
 ## 2.Linux Commands
 
 ### Display Current Directory path
