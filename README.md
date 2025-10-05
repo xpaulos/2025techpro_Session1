@@ -36,7 +36,9 @@
 ### Move files
 `mv`
 ### Delete files
-`rm | rmdir | rm -R`
+`rm | rmdir | rm -R` 
+### Copy files 
+`cp`
 ### Documentation for commands
 `man`
 ### Get the power of an admin
