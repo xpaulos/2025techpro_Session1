@@ -22,11 +22,11 @@
 ### Display Current Directory path
 `pwd`
 ### Change the working directory
-`cd | cd home | cd ..`
+`cd home | cd..`
 ### Current user
 `whoami`
 ### Create directories
-`mkdir | mkdir <directory_name>`
+`mkdir <directory_name>`
 ### List content of a directory
 `ls | la | ls -a | ls -l`
 ### Displays content of a file
